@@ -1,0 +1,190 @@
+<html>
+<head>
+<title>TestNG:  Surefire test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Surefire test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>22/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sat Jun 15 18:32:57 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>201 seconds (201790 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.GroupCompanyTest.groupCompanyTest()'><b>groupCompanyTest</b><br>Test class: tests.GroupCompanyTest<br>Parameters: https://www.flipkart.com/, Yes</td>
+<td></td>
+<td>6</td>
+<td>tests.GroupCompanyTest@7e3060d8</td></tr>
+<tr>
+<td title='tests.SearchTest.searchTest()'><b>searchTest</b><br>Test class: tests.SearchTest<br>Parameters: https://www.flipkart.com/, Yes, Women Jeans</td>
+<td></td>
+<td>5</td>
+<td>tests.SearchTest@55e8ec2f</td></tr>
+<tr>
+<td title='tests.ExchangeTest.exchangeTest()'><b>exchangeTest</b><br>Test class: tests.ExchangeTest<br>Parameters: https://www.flipkart.com/redmi-12-5g-jade-black-128-gb/p/itmb7b9567637d5c?pid=MOBGS9QU7QVWUWRD&lid=LSTMOBGS9QU7QVWUWRDWPHNEP&marketplace=FLIPKART&q=redmi+&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=search-autosuggest&iid=43966f1d-dc6f-4f22-a093-56bcae55d89b.MOBGS9QU7QVWUWRD.SEARCH&ppt=sp&ppn=sp&ssid=wiam0z4ofk0000001718382646050&qH=0452d1bd19251471, Yes, 110001</td>
+<td></td>
+<td>10</td>
+<td>tests.ExchangeTest@51e8e6e6</td></tr>
+<tr>
+<td title='tests.SellerTest.sellerTest()'><b>sellerTest</b><br>Test class: tests.SellerTest<br>Parameters: https://www.flipkart.com, Yes</td>
+<td></td>
+<td>7</td>
+<td>tests.SellerTest@4f2613d1</td></tr>
+<tr>
+<td title='tests.CartTest.cartTest()'><b>cartTest</b><br>Test class: tests.CartTest<br>Parameters: https://www.flipkart.com/apple-iphone-15-blue-128-gb/p/itmbf14ef54f645d?pid=MOBGTAGPAQNVFZZY&lid=LSTMOBGTAGPAQNVFZZY7RHDU7&marketplace=FLIPKART&q=iphone+15&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_ps&fm=search-autosuggest&iid=9c9c407f-2fee-4625-9632-b148f2aad91d.MOBGTAGPAQNVFZZY.SEARCH&ppt=sp&ppn=sp&ssid=0o71vlv6cw0000001717782144993&qH=2f54b45b321e3ae5, Yes, mansigupta9876@gmail.com</td>
+<td></td>
+<td>7</td>
+<td>tests.CartTest@15c25153</td></tr>
+<tr>
+<td title='tests.WishlistTest.bannerTest()'><b>bannerTest</b><br>Test class: tests.WishlistTest<br>Parameters: https://www.flipkart.com, Yes</td>
+<td></td>
+<td>6</td>
+<td>tests.WishlistTest@773f7880</td></tr>
+<tr>
+<td title='tests.GroceryTest.groceryTest()'><b>groceryTest</b><br>Test class: tests.GroceryTest<br>Parameters: https://www.flipkart.com, Yes, 110001</td>
+<td></td>
+<td>4</td>
+<td>tests.GroceryTest@7fc44dec</td></tr>
+<tr>
+<td title='tests.RatingTest.ratingTest()'><b>ratingTest</b><br>Test class: tests.RatingTest<br>Parameters: https://www.flipkart.com/poco-m6-pro-5g-power-black-128-gb/p/itmef8fa46f89738?pid=MOBGRNZ3ER4N3K4F&lid=LSTMOBGRNZ3ER4N3K4FIYYGCU&marketplace=FLIPKART&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=b_1_1&otracker=browse&fm=organic&iid=e4251021-69ce-4af4-8e14-c0d82321e3d8.MOBGRNZ3ER4N3K4F.SEARCH&ppt=browse&ppn=browse&ssid=tsnuolqqkg0000001715851610427, Yes</td>
+<td></td>
+<td>8</td>
+<td>tests.RatingTest@2e54db99</td></tr>
+<tr>
+<td title='tests.GiftcardTest.giftcardTest()'><b>giftcardTest</b><br>Test class: tests.GiftcardTest<br>Parameters: https://www.flipkart.com/the-gift-card-store?link=home_giftcard, Yes, mansigupta876@gmail.com, Mansi Gupta</td>
+<td></td>
+<td>6</td>
+<td>tests.GiftcardTest@20b5f2ac</td></tr>
+<tr>
+<td title='tests.SignUpTest.signUpTest()'><b>signUpTest</b><br>Test class: tests.SignUpTest<br>Parameters: https://www.flipkart.com/, Yes, 9234671238</td>
+<td></td>
+<td>5</td>
+<td>tests.SignUpTest@65a4798f</td></tr>
+<tr>
+<td title='tests.WishlistTest.wishlistTest()'><b>wishlistTest</b><br>Test class: tests.WishlistTest<br>Parameters: https://www.flipkart.com/tyy/4io/~cs-6ky41lperx/pr?sid=tyy%2C4io&collection-tab-name=POCO+M6+Pro+5G&param=3243&ctx=eyJjYXJkQ29udGV4dCI6eyJhdHRyaWJ1dGVzIjp7InZhbHVlQ2FsbG91dCI6eyJtdWx0aVZhbHVlZEF0dHJpYnV0ZSI6eyJrZXkiOiJ2YWx1ZUNhbGxvdXQiLCJpbmZlcmVuY2VUeXBlIjoiVkFMVUVfQ0FMTE9VVCIsInZhbHVlcyI6WyJpbmNsIG9mIG9mZmVycyJdLCJ2YWx1ZVR5cGUiOiJNVUxUSV9WQUxVRUQifX0sInRpdGxlIjp7Im11bHRpVmFsdWVkQXR0cmlidXRlIjp7ImtleSI6InRpdGxlIiwiaW5mZXJlbmNlVHlwZSI6IlRJVExFIiwidmFsdWVzIjpbInBvY28gbTYgcHJvIl0sInZhbHVlVHlwZSI6Ik1VTFRJX1ZBTFVFRCJ9fSwiaGVyb1BpZCI6eyJzaW5nbGVWYWx1ZUF0dHJpYnV0ZSI6eyJrZXkiOiJoZXJvUGlkIiwiaW5mZXJlbmNlVHlwZSI6IlBJRCIsInZhbHVlIjoiTU9CR1JOWjNGWkJWUllIUSIsInZhbHVlVHlwZSI6IlNJTkdMRV9WQUxVRUQifX19fX0%3D, Yes</td>
+<td></td>
+<td>3</td>
+<td>tests.WishlistTest@773f7880</td></tr>
+<tr>
+<td title='tests.CompareTest.compareTest()'><b>compareTest</b><br>Test class: tests.CompareTest<br>Parameters: https://www.flipkart.com/poco-m6-pro-5g-forest-green-128-gb/p/itm151f47ed48eee?pid=MOBGRNZ3FZBVRYHQ&lid=LSTMOBGRNZ3FZBVRYHQLWWUJH&marketplace=FLIPKART&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=b_1_1&otracker=browse&fm=organic&iid=93d2403b-5c0b-48c2-912a-ab78f1ffc658.MOBGRNZ3FZBVRYHQ.SEARCH&ppt=browse&ppn=browse&ssid=qasi52v2800000001715754782625, https://www.flipkart.com/redmi-12-pastel-blue-128-gb/p/itm9b1a6640faccd?pid=MOBGRMFKAHNTZPWE&lid=LSTMOBGRMFKAHNTZPWE1H5IWS&marketplace=FLIPKART&fm=productRecommendation%2Fsimilar&iid=R%3As%3Bp%3AMOBGRNZ3FZBVRYHQ%3Bl%3ALSTMOBGRNZ3FZBVRYHQLWWUJH%3Bpt%3App%3Buid%3A413ce5c5-129d-11ef-9805-dfeb5cf62949%3B.MOBGRMFKAHNTZPWE&ppt=pp&ppn=pp&ssid=rpba0o2wls0000001715758110411&otracker=pp_reco_Similar%2BProducts_6_35.productCard.PMU_HORIZONTAL_REDMI%2B12%2B%2528Pastel%2BBlue%252C%2B128%2BGB%2529_MOBGRMFKAHNTZPWE_productRecommendation%2Fsimilar_5&otracker1=pp_reco_PINNED_productRecommendation%2Fsimilar_Similar%2BProducts_GRID_productCard_cc_6_NA_view-all&cid=MOBGRMFKAHNTZPWE, Yes</td>
+<td></td>
+<td>9</td>
+<td>tests.CompareTest@1252b961</td></tr>
+<tr>
+<td title='tests.FilterTest.filterTest()'><b>filterTest</b><br>Test class: tests.FilterTest<br>Parameters: https://www.flipkart.com, Yes</td>
+<td></td>
+<td>4</td>
+<td>tests.FilterTest@2dbf4cbd</td></tr>
+<tr>
+<td title='tests.ShareTest.shareTest()'><b>shareTest</b><br>Test class: tests.ShareTest<br>Parameters: https://www.flipkart.com/apple-iphone-15-pro-max-black-titanium-256-gb/p/itmd170cfc1dec9e?pid=MOBGTAGQGJWQFEFX&lid=LSTMOBGTAGQGJWQFEFXBVNGR1&marketplace=FLIPKART&q=iphone+15+pro+max&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_2_7_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_7_na_na_na&fm=Search&iid=31845d65-bfa6-4f1d-a2f4-d981236eaa5b.MOBGTAGQGJWQFEFX.SEARCH&ppt=sp&ppn=sp&ssid=g9c4bn4tww0000001717872638708&qH=4bc0516d32b4b645, Yes</td>
+<td></td>
+<td>3</td>
+<td>tests.ShareTest@6d24ffa1</td></tr>
+<tr>
+<td title='tests.PincodeTest.pincodeTest()'><b>pincodeTest</b><br>Test class: tests.PincodeTest<br>Parameters: https://www.flipkart.com/poco-m6-pro-5g-forest-green-128-gb/p/itm151f47ed48eee?pid=MOBGRNZ3FZBVRYHQ&lid=LSTMOBGRNZ3FZBVRYHQLWWUJH&marketplace=FLIPKART&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=b_1_1&otracker=browse&fm=organic&iid=cc972770-991c-415d-841e-231c0f770900.MOBGRNZ3FZBVRYHQ.SEARCH&ppt=browse&ppn=browse&ssid=tl5e3ijzbk0000001715680469385, Yes, 110001</td>
+<td></td>
+<td>3</td>
+<td>tests.PincodeTest@62fad19</td></tr>
+<tr>
+<td title='tests.DownloadTest.downloadTest()'><b>downloadTest</b><br>Test class: tests.DownloadTest<br>Parameters: https://www.flipkart.com, Yes</td>
+<td></td>
+<td>13</td>
+<td>tests.DownloadTest@56276db8</td></tr>
+<tr>
+<td title='tests.NavigationTest.navigationTest()'><b>navigationTest</b><br>Test class: tests.NavigationTest<br>Parameters: https://www.flipkart.com, Yes</td>
+<td></td>
+<td>7</td>
+<td>tests.NavigationTest@7b64240d</td></tr>
+<tr>
+<td title='tests.BannerTest.bannerTest()'><b>bannerTest</b><br>Test class: tests.BannerTest<br>Parameters: https://www.flipkart.com, Yes</td>
+<td></td>
+<td>10</td>
+<td>tests.BannerTest@38be305c</td></tr>
+<tr>
+<td title='tests.BookFlightTest.bookFlightTest()'><b>bookFlightTest</b><br>Test class: tests.BookFlightTest<br>Parameters: https://www.flipkart.com, Yes</td>
+<td></td>
+<td>18</td>
+<td>tests.BookFlightTest@458342d3</td></tr>
+<tr>
+<td title='tests.LoginTest.loginTest()'><b>loginTest</b><br>Test class: tests.LoginTest<br>Parameters: 9876345898, Yes</td>
+<td></td>
+<td>4</td>
+<td>tests.LoginTest@2692b61e</td></tr>
+<tr>
+<td title='tests.CustomerCareTest.customerCareTest()'><b>customerCareTest</b><br>Test class: tests.CustomerCareTest<br>Parameters: https://www.flipkart.com, Yes</td>
+<td></td>
+<td>5</td>
+<td>tests.CustomerCareTest@9ed238c</td></tr>
+<tr>
+<td title='tests.FilterTest.bannerTest()'><b>bannerTest</b><br>Test class: tests.FilterTest<br>Parameters: https://www.flipkart.com, Yes</td>
+<td></td>
+<td>6</td>
+<td>tests.FilterTest@2dbf4cbd</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<!-- Group: smoke -->
+			<class name="tests.SearchTest" />
+			<class name="tests.GiftcardTest" />
+			<class name="tests.GroceryTest" />
+			<class name="tests.BannerTest" />
+			<class name="tests.DownloadTest" />
+			<!-- Group: functional -->
+			<class name="tests.SignUpTest" />
+			<class name="tests.LoginTest" />
+			<class name="tests.CartTest" />
+			<class name="tests.RatingTest" />
+			<class name="tests.CompareTest" />
+			<!-- Group: sanity -->
+		    <class name="tests.SellerTest" />
+			<class name="tests.CustomerCareTest" />
+		    <class name="tests.GroupCompanyTest" />
+			<class name="tests.NavigationTest" />
+			<class name="tests.PincodeTest" />
+			<!-- Group: regression -->
+			<class name="tests.ShareTest" />
+			<class name="tests.ExchangeTest" />
+			<class name="tests.BookFlightTest" />
+			<!-- Additional classes outside of specific tests -->
+			<class name="tests.WishlistTest" />
+			<class name="tests.FilterTest" />
+
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

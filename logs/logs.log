@@ -1,0 +1,475 @@
+[DEBUG] 2024-06-20 11:16:03.850 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:16:03.867 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:16:03.870 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:16:03.872 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:16:03.873 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:16:03.875 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:16:03.877 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:16:03.880 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:16:03.882 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:16:03.883 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:16:03.885 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:16:03.887 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:16:03.890 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:16:03.893 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:16:03.895 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:16:03.899 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:16:03.902 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:16:03.905 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:16:03.951 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:16:17.505 [main] SearchTest - Searched the product
+[DEBUG] 2024-06-20 11:16:33.912 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:16:33.927 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:16:33.933 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:16:33.939 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:16:33.944 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:16:33.950 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:16:33.956 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:16:33.961 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:16:33.966 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:16:33.971 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:16:33.976 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:16:33.984 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:16:33.991 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:16:33.998 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:16:34.005 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:16:34.010 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:16:34.015 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:16:34.020 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:16:34.029 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:16:47.840 [main] GiftcardTest - Navigated to Giftcard Creation Page
+[INFO ] 2024-06-20 11:16:48.611 [main] GiftcardTest - Entered Email
+[INFO ] 2024-06-20 11:16:50.823 [main] GiftcardTest - Entered Name
+[INFO ] 2024-06-20 11:16:51.810 [main] GiftcardTest - Selected Voucher value
+[INFO ] 2024-06-20 11:16:54.676 [main] GiftcardTest - Clicked on Buy Voucher button
+[DEBUG] 2024-06-20 11:17:03.293 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:17:03.301 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:17:03.304 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:17:03.311 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:17:03.314 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:17:03.317 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:17:03.321 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:17:03.325 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:17:03.328 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:17:03.333 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:17:03.340 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:17:03.342 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:17:03.346 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:17:03.348 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:17:03.351 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:17:03.353 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:17:03.355 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:17:03.357 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:17:03.359 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:17:23.026 [main] GroceryTest - Navigated to Grocery Store
+[INFO ] 2024-06-20 11:17:23.407 [main] GroceryTest - Entered pincode to check service availability
+[DEBUG] 2024-06-20 11:17:26.783 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:17:26.788 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:17:26.790 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:17:26.792 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:17:26.794 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:17:26.795 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:17:26.799 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:17:26.802 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:17:26.805 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:17:26.808 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:17:26.811 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:17:26.813 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:17:26.815 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:17:26.818 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:17:26.828 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:17:26.830 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:17:26.832 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:17:26.833 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:17:26.839 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:17:33.533 [main] BannerTest - Clicked on HomePage Banner
+[DEBUG] 2024-06-20 11:17:53.105 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:17:53.108 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:17:53.118 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:17:53.121 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:17:53.126 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:17:53.130 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:17:53.133 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:17:53.136 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:17:53.138 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:17:53.141 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:17:53.145 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:17:53.148 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:17:53.149 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:17:53.152 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:17:53.154 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:17:53.157 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:17:53.162 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:17:53.165 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:17:53.167 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:18:10.114 [main] DownloadTest - Navigated to Seller Page
+[INFO ] 2024-06-20 11:18:19.209 [main] DownloadTest - Navigated to Shopsy Store
+[INFO ] 2024-06-20 11:18:23.875 [main] DownloadTest - Downloaded Kit
+[INFO ] 2024-06-20 11:18:25.538 [main] DownloadTest - Handled Pop Up
+[INFO ] 2024-06-20 11:18:25.843 [main] DownloadTest - Navigated to the Top
+[DEBUG] 2024-06-20 11:18:37.849 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:18:37.867 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:18:37.872 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:18:37.874 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:18:37.880 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:18:37.886 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:18:37.898 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:18:37.901 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:18:38.003 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:18:38.015 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:18:38.018 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:18:38.021 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:18:38.039 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:18:38.042 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:18:38.043 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:18:38.067 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:18:38.069 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:18:38.071 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:18:38.080 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:18:53.478 [main] SignUpTest - Clicked Login Button
+[INFO ] 2024-06-20 11:18:55.789 [main] SignUpTest - Clicked SignUp Link
+[INFO ] 2024-06-20 11:18:56.584 [main] SignUpTest - Entered Phone Number
+[INFO ] 2024-06-20 11:18:57.110 [main] SignUpTest - Clicked Request OTP button
+[DEBUG] 2024-06-20 11:19:09.475 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:19:09.478 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:19:09.481 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:19:09.483 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:19:09.486 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:19:09.488 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:19:09.491 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:19:09.493 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:19:09.494 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:19:09.497 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:19:09.498 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:19:09.499 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:19:09.501 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:19:09.502 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:19:09.503 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:19:09.505 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:19:09.506 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:19:09.508 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:19:09.510 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:19:18.567 [main] LoginTest - Clicked on Login Button
+[INFO ] 2024-06-20 11:19:19.690 [main] LoginTest - Entered Phone Number
+[DEBUG] 2024-06-20 11:19:24.756 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:19:24.766 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:19:24.771 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:19:24.798 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:19:24.806 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:19:24.809 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:19:24.814 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:19:24.819 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:19:24.820 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:19:24.822 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:19:24.837 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:19:24.840 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:19:24.843 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:19:24.848 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:19:24.853 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:19:24.855 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:19:24.860 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:19:24.862 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:19:24.866 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:19:34.903 [main] CartTest - Clicked on Cart Button
+[INFO ] 2024-06-20 11:19:48.782 [main] CartTest - Clicked on Place Order Button
+[INFO ] 2024-06-20 11:19:51.876 [main] CartTest - Entered email
+[DEBUG] 2024-06-20 11:19:56.564 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:19:56.575 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:19:56.577 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:19:56.581 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:19:56.586 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:19:56.588 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:19:56.591 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:19:56.594 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:19:56.629 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:19:56.635 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:19:56.638 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:19:56.640 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:19:56.642 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:19:56.643 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:19:56.644 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:19:56.646 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:19:56.667 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:19:56.670 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:19:56.672 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:20:02.507 [main] RatingTest - Clicked rating button
+[INFO ] 2024-06-20 11:20:04.734 [main] RatingTest - Clicked Rate Product Button
+[DEBUG] 2024-06-20 11:20:12.326 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:20:12.331 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:20:12.336 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:20:12.342 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:20:12.345 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:20:12.349 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:20:12.351 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:20:12.354 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:20:12.358 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:20:12.397 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:20:12.401 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:20:12.403 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:20:12.405 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:20:12.408 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:20:12.413 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:20:12.417 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:20:12.419 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:20:12.421 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:20:12.425 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:20:28.654 [main] CompareTest - Clicked on compare CheckBox
+[INFO ] 2024-06-20 11:20:33.495 [main] CompareTest - Opened another phone to add to compare list
+[INFO ] 2024-06-20 11:20:33.755 [main] CompareTest - Clicked on compare CheckBox
+[INFO ] 2024-06-20 11:20:34.181 [main] CompareTest - Opened Compare Page
+[DEBUG] 2024-06-20 11:20:42.534 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:20:42.539 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:20:42.547 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:20:42.557 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:20:42.560 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:20:42.566 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:20:42.569 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:20:42.571 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:20:42.573 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:20:42.583 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:20:42.597 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:20:42.611 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:20:42.613 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:20:42.616 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:20:42.621 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:20:42.623 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:20:42.625 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:20:42.627 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:20:42.629 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:21:07.598 [main] SellerTest - Clicked Seller Link
+[INFO ] 2024-06-20 11:21:07.890 [main] SellerTest - Navigated to Selling Page
+[DEBUG] 2024-06-20 11:21:11.488 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:21:11.490 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:21:11.494 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:21:11.495 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:21:11.497 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:21:11.499 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:21:11.501 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:21:11.504 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:21:11.506 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:21:11.508 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:21:11.512 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:21:11.514 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:21:11.517 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:21:11.521 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:21:11.523 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:21:11.525 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:21:11.527 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:21:11.530 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:21:11.532 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:21:32.776 [main] CustomerCareTest - Navigated to Customer Care Page
+[DEBUG] 2024-06-20 11:21:41.748 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:21:41.761 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:21:41.763 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:21:41.765 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:21:41.767 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:21:41.769 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:21:41.771 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:21:41.773 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:21:41.776 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:21:41.778 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:21:41.782 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:21:41.784 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:21:41.786 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:21:41.789 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:21:41.790 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:21:41.793 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:21:41.794 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:21:41.795 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:21:41.798 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:21:50.041 [main] GroupCompanyTest - Navigated to group company
+[DEBUG] 2024-06-20 11:21:59.902 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:21:59.923 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:21:59.926 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:21:59.930 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:21:59.931 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:21:59.933 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:21:59.935 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:21:59.937 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:21:59.940 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:21:59.942 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:21:59.944 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:21:59.948 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:21:59.949 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:21:59.953 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:21:59.956 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:21:59.958 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:22:00.034 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:22:00.037 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:22:00.040 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:22:17.501 [main] NavigationTest - Clicked on Home&Furniture Page Banner
+[INFO ] 2024-06-20 11:22:17.920 [main] NavigationTest - Navigated to the OfferZone Top Deals
+[DEBUG] 2024-06-20 11:22:24.792 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:22:24.794 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:22:24.797 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:22:24.798 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:22:24.809 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:22:24.812 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:22:24.813 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:22:24.815 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:22:24.817 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:22:24.819 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:22:24.821 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:22:24.822 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:22:24.824 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:22:24.826 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:22:24.829 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:22:24.832 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:22:24.834 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:22:24.836 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:22:24.838 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:22:37.722 [main] PincodeTest - Entered pincode
+[DEBUG] 2024-06-20 11:22:50.430 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:22:50.432 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:22:50.433 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:22:50.434 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:22:50.436 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:22:50.438 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:22:50.440 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:22:50.441 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:22:50.444 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:22:50.453 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:22:50.462 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:22:50.465 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:22:50.501 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:22:50.554 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:22:50.555 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:22:50.558 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:22:50.576 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:22:50.578 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:22:50.579 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:23:01.201 [main] ShareTest - Clicked on Share Button
+[INFO ] 2024-06-20 11:23:02.668 [main] ShareTest - Selected Email Option
+[DEBUG] 2024-06-20 11:23:21.247 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:23:21.248 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:23:21.249 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:23:21.251 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:23:21.251 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:23:21.253 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:23:21.253 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:23:21.255 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:23:21.255 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:23:21.257 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:23:21.257 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:23:21.259 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:23:21.259 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:23:21.261 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:23:21.263 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:23:21.264 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:23:21.272 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:23:21.273 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:23:21.275 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:23:29.807 [main] ExchangeTest - Entered Pincode
+[INFO ] 2024-06-20 11:23:33.602 [main] ExchangeTest - Clicked exchange Button
+[DEBUG] 2024-06-20 11:23:49.095 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:23:49.098 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:23:49.100 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:23:49.105 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:23:49.108 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:23:49.114 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:23:49.116 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:23:49.148 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:23:49.150 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:23:49.153 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:23:49.155 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:23:49.158 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:23:49.160 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:23:49.164 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:23:49.169 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:23:49.171 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:23:49.176 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:23:49.178 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:23:49.182 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:24:10.972 [main] BookFlightTest - Clicked on Travel Link
+[INFO ] 2024-06-20 11:24:18.405 [main] BookFlightTest - Selected from city
+[INFO ] 2024-06-20 11:24:21.697 [main] BookFlightTest - Selected to city
+[ERROR] 2024-06-20 11:24:24.773 [main] BookFlightTest - Exception encountered: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='v2VFa- k2khBy rOnAcM z2D4XG']"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [14407968adc5b65ecb01dba360758ba1, findElement {using=xpath, value=//input[@class='v2VFa- k2khBy rOnAcM z2D4XG']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.62 (b2781ca4c383..., userDataDir: C:\Users\MANSIG~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57065}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57065/devtoo..., se:cdpVersion: 126.0.6478.62, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 14407968adc5b65ecb01dba360758ba1
+[DEBUG] 2024-06-20 11:24:31.918 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:24:31.921 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:24:31.922 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:24:31.925 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:24:31.926 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:24:31.927 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:24:31.929 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:24:31.933 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:24:31.935 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:24:31.937 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:24:31.938 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:24:31.939 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:24:31.941 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:24:31.944 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:24:31.952 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:24:31.954 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:24:32.001 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:24:32.017 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:24:32.032 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:24:50.966 [main] WishlistTest - Clicked on HomePage Banner
+[DEBUG] 2024-06-20 11:24:57.591 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:24:57.592 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:24:57.594 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:24:57.595 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:24:57.597 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:24:57.599 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:24:57.613 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:24:57.614 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:24:57.615 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:24:57.619 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:24:57.620 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:24:57.625 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:24:57.626 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:24:57.628 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:24:57.629 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:24:57.630 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:24:57.632 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:24:57.634 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:24:57.635 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:25:01.526 [main] WishlistTest - Clicked heart button
+[DEBUG] 2024-06-20 11:25:11.591 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:25:11.599 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:25:11.601 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:25:11.604 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:25:11.606 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:25:11.612 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:25:11.614 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:25:11.616 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:25:11.621 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:25:11.632 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:25:11.635 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:25:11.636 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:25:11.638 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:25:11.697 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:25:11.700 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:25:11.702 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:25:11.703 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:25:11.713 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:25:11.716 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:25:27.308 [main] FilterTest - Clicked on HomePage Banner
+[DEBUG] 2024-06-20 11:25:32.829 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-20 11:25:32.830 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-20 11:25:32.831 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-06-20 11:25:32.833 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-06-20 11:25:32.834 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-06-20 11:25:32.835 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-06-20 11:25:32.836 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-06-20 11:25:32.837 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-06-20 11:25:32.838 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet9.xml.rels
+[DEBUG] 2024-06-20 11:25:32.839 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet10.xml.rels
+[DEBUG] 2024-06-20 11:25:32.840 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet11.xml.rels
+[DEBUG] 2024-06-20 11:25:32.841 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet12.xml.rels
+[DEBUG] 2024-06-20 11:25:32.842 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet13.xml.rels
+[DEBUG] 2024-06-20 11:25:32.843 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet14.xml.rels
+[DEBUG] 2024-06-20 11:25:32.844 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet15.xml.rels
+[DEBUG] 2024-06-20 11:25:32.845 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+[DEBUG] 2024-06-20 11:25:32.846 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+[DEBUG] 2024-06-20 11:25:32.849 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+[DEBUG] 2024-06-20 11:25:32.851 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-20 11:25:34.273 [main] FilterTest - Applied Min Price Filter
+[INFO ] 2024-06-20 11:25:36.471 [main] FilterTest - Applied Brand Filter
